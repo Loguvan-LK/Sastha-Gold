@@ -12,7 +12,7 @@
             background-color: #1b2f26;
         }
         .bgc2 {
-            background-color: #c3ac88;
+            background-color: #0a6168;
         }
 
         .cc1 {

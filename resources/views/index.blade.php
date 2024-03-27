@@ -9,13 +9,13 @@
     
     <style>
           .bgc1 {
-            background-color: #1b2f26;
+            background-color: #0a6168;
         }
         .bgc2 {
-            background-color: #c3ac88;
+            background-color: #0a6168;
         }
         .bgc3 {
-          background-color: #1B201E
+          background-color: #0a6168
         }
         .cc1 {
           color: #FFE6CC;
@@ -61,7 +61,7 @@
 @section('content')
 
 
-<div class="jumbotron jumbotron-fluid py-5" style="background-color: #1b2f26">
+<div class="jumbotron jumbotron-fluid py-5" style="background-color: #0a6168">
   <div class="container text-center" style="color: #FFE6CC">
     <h2 class="mb-5" style="color: #DBAD7E">Ghidaq Luxury Jewelry</h2>
     <h3 class="display-3 mb-5">Put yourself forward with stylish jewelry that's made for you.</h3>
@@ -147,7 +147,7 @@
             </div>
         </header>
 
-        <div class="jumbotron jumbotron-fluid py-5" style="background-color: #1b2f26;">
+        <div class="jumbotron jumbotron-fluid py-5" style="background-color: #0a6168;">
           <div class="container mb-5" style="color: #FFE6CC">
             <div class="row">
               <div class="col-md-6">
@@ -194,7 +194,7 @@
 
 
 
-        <div class="jumbotron jumbotron-fluid py-5" style="background-color: #1b2f26;">
+        <div class="jumbotron jumbotron-fluid py-5" style="background-color: #0a6168;">
           <div class="container mb-5" style="color: #FFE6CC">
             <div class="row">
               <div class="col-md-6">

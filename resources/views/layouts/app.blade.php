@@ -28,7 +28,8 @@
 </head>
 <body>
     <div id="app">
-        <nav class="navbar navbar-expand-lg navbar-dark shadow-s text-white" style="background-color: @yield('color1', '#1A3027')">
+    <nav class="navbar navbar-expand-lg navbar-dark shadow-s text-white" style="background-color: #0a6168">
+
             <div class="container">
                 <a class="navbar-brand fw-bold" style="color: @yield('color2', '#DBAD7E')" href="{{ url('/') }}"><i class="far fa-gem fa-xl"></i> Ghidaq Jewellery</a>
 
