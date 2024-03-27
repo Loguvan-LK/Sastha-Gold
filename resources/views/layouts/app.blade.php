@@ -30,7 +30,7 @@
     <div id="app">
         <nav class="navbar navbar-expand-lg navbar-dark shadow-s text-white" style="background-color: @yield('color1', '#1A3027')">
             <div class="container">
-                <a class="navbar-brand fw-bold" style="color: @yield('color2', '#DBAD7E')" href="{{ url('/') }}"><i class="far fa-gem fa-xl"></i> Ghidaq Jewellery</a>
+                <a class="navbar-brand fw-bold" style="color: @yield('color2', '#DBAD7E')" href="{{ url('/') }}"><i class="far fa-gem fa-xl"></i> Sastha Jewellery</a>
 
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
@@ -114,11 +114,12 @@
                     <div class="col-md-3">
                         <h5>Contact Us</h5>
                         <address>
-                            Ghidaq luxury Jewellery Company<br>
-                            Al Arouba Street, Riyadh<br>
-                            Kingdom of Saudi Arabia<br>
-                            Phone: 800 122 2221<br>
-                            Email: info@ghidaq.com<br>
+                            Sastha Jewellery<br>
+                            #302, Shop No 19, 2nd Floor,<br>
+                            DD Complex - Bigbazzar st, <br>
+                            Coimbatore - 641001 <br>
+                            Phone: 9566824184<br>
+                            Email: sasthajweles@gmail.com<br>
                             <div class="social-icons my-2">
                                 <a href="#" class="social-icon text-white mx-2"><i class="fa-brands fa-twitter fa-xl"></i></a>
                                 <a href="#" class="social-icon text-white mx-2"><i class="fa-brands fa-instagram fa-xl"></i></a>
@@ -138,7 +139,7 @@
                 </div>
             </div>
             <div class="text-center">
-                &copy; {{ date('Y') }} By Mohd | Ghidaq Jewellery. All Rights Reserved.
+                &copy; {{ date('Y') }} By Mohd | Sastha Jewellery. All Rights Reserved.
             </div>
         </footer>
 

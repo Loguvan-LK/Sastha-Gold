@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Ghidaq Jewellery - Add')
+@section('title', 'Sastha Jewellery - Add')
 @section('color1', '#1b2f26')
 @section('color2', '#DBAD7E')
 
@@ -35,7 +35,7 @@
 
 <div class="jumbotron jumbotron-fluid py-2 bgc1">
   <div class="container text-center cc1">
-   <h2 class="mb-5 cc2">Ghidaq Luxury Jewelry</h2>
+   <h2 class="mb-5 cc2">Sastha Jewelry</h2>
    </div>
  </div>  
 

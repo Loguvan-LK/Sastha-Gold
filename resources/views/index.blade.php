@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Ghidaq Jewellery')
+@section('title', 'Sastha Jewellery')
 @section('color1', '#1b2f26')
 @section('color2', '#DBAD7E')
 
@@ -63,7 +63,7 @@
 
 <div class="jumbotron jumbotron-fluid py-5" style="background-color: #1b2f26">
   <div class="container text-center" style="color: #FFE6CC">
-    <h2 class="mb-5" style="color: #DBAD7E">Ghidaq Luxury Jewelry</h2>
+    <h2 class="mb-5" style="color: #DBAD7E">Sastha Jewelry</h2>
     <h3 class="display-3 mb-5">Put yourself forward with stylish jewelry that's made for you.</h3>
     <p class="h4">Discover our exquisite collection of fine jewelry crafted with passion and precision.</p>
       <img src="/img/banner.png" alt="Ghidaq" class="img-fluid mt-5">
@@ -84,8 +84,8 @@
                       <div class="card-body text-center">
                           <h5 class="card-title fw-bold">{{ $item->name }}</h5>
                           <p class="card-text">{{ $item->description }}</p>
-                          <p class="card-price">{{ $item->price }} SAR</p>
-                          <a href="checkout/{{ $item->id }}" class="btn btn-outline-primary">Buy Now</a>
+                          <!-- <p class="card-price">{{ $item->price }} SAR</p> -->
+                          <!-- <a href="checkout/{{ $item->id }}" class="btn btn-outline-primary">Buy Now</a> -->
                       </div>
                   </div>
               </div>            
@@ -239,16 +239,16 @@
               <div class="col-md-6">
                 <h5 class="display-5 mb-5">Get in Touch</h5>
                   <p class="h3">Phone</p>
-                    <p class="h3 mb-5"> 800 122 2221</p>
+                    <p class="h3 mb-5"> 9566824184</p>
                   <p class="h3">Email</p>
-                    <p class="h3 mb-5">info@ghidaq.com</p>
+                    <p class="h3 mb-5">sasthajweles@gmail.com</p>
                   <p class="h3 mb-4">Social</p>
                   <div class="social-icons my-2 mb-5">
                     <a href="#" class="social-icon mx-2"><i class="fa-brands fa-twitter fa-xl cc4"></i></a>
                     <a href="#" class="social-icon mx-2"><i class="fa-brands fa-instagram fa-xl cc4"></i></a>
                     <a href="#" class="social-icon mx-2"><i class="fa-brands fa-snapchat fa-xl cc4"></i></a>
                   </div>
-                  <p class="h2">Ghidaq Jewellery </p>
+                  <p class="h2">Sastha Jewellery </p>
                 
               </div>
                 <div class="col-md-6">
