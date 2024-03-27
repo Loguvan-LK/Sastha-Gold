@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Ghidaq Jewellery">
+    <meta name="description" content="Sastha Jewellery">
     <meta name="author" content="Mohd">
 
     <!-- CSRF Token -->
@@ -110,7 +110,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <h5>About Us</h5>
-                        <p>Where elegance meets craftsmanship. <br>We offer a wide range of exquisite jewelry pieces crafted with precision and passion. <br>Shop with confidence and indulge in the beauty of Ghidaq Jewelry. <br>Experience luxury at its finest.</p>
+                        <p>Where elegance meets craftsmanship. <br>We offer a wide range of exquisite jewelry pieces crafted with precision and passion. <br>Shop with confidence and indulge in the beauty of Sastha Jewelry. <br>Experience luxury at its finest.</p>
                     </div>
                     <div class="col-md-3">
                         <h5>Contact Us</h5>

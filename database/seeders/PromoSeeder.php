@@ -21,7 +21,7 @@ class PromoSeeder extends Seeder
                 'discount' => 500,
             ],
             [
-                'code' => 'GHIDAQ',
+                'code' => 'Sastha',
                 'discount' => 1000,
             ],
         ];

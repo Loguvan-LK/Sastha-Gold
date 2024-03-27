@@ -66,7 +66,7 @@
     <h2 class="mb-5" style="color: #DBAD7E">Sastha Jewelry</h2>
     <h3 class="display-3 mb-5">Put yourself forward with stylish jewelry that's made for you.</h3>
     <p class="h4">Discover our exquisite collection of fine jewelry crafted with passion and precision.</p>
-      <img src="/img/banner.png" alt="Ghidaq" class="img-fluid mt-5">
+      <img src="/img/banner.png" alt="Sastha" class="img-fluid mt-5">
     </div>
   </div>
 
@@ -74,7 +74,7 @@
       <div class="jumbotron jumbotron-fluid py-5 bgc2">
           <div class="container px-4 px-lg-5 cc4">
             <small>Discover</small>
-            <h1 class="mb-3" style="color: #1b2f26">Ghidaq Collection</h1>
+            <h1 class="mb-3" style="color: #1b2f26">Sastha Collection</h1>
             <div class="spacer"></div>
             <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
               @foreach ($items as $item)
@@ -107,7 +107,7 @@
             <div class="card bg-transparent">
               <img class="card-img-top" src="/img/img9.png" alt="Upcoming Item 1">
               <div class="card-body">
-                <h3 class="card-title">Ghidaq Ring In 18K White Gold With Akoya Pearls And Blue Sapphires</h3>
+                <h3 class="card-title">Sastha Ring In 18K White Gold With Akoya Pearls And Blue Sapphires</h3>
                 <p class="card-text">Bring the beautiful power of music to your look with this 18k white gold ring.</p>
                 <p class="card-price">5000 SAR and up</p>
               </div>
@@ -117,7 +117,7 @@
             <div class="card bg-transparent">
               <img class="card-img-top" src="/img/img10.png" alt="Upcoming Item 2">
               <div class="card-body">
-                <h3 class="card-title">Ghidaq Necklace 18K White Gold With Akoya Pearls, Diamonds And Blue Sapphires</h3>
+                <h3 class="card-title">Sastha Necklace 18K White Gold With Akoya Pearls, Diamonds And Blue Sapphires</h3>
                 <p class="card-text">This 18k white gold necklace is inspired by musical notes, with Akoya pearls, diamonds and blue sapphires.</p>
                 <p class="card-price">4000 SAR and up</p>
               </div>
@@ -127,7 +127,7 @@
             <div class="card bg-transparent">
               <img class="card-img-top" src="/img/img11.png" alt="Upcoming Item 3">
               <div class="card-body">
-                <h3 class="card-title">Ghidaq Earrings 18K White Gold With Akoya Pearls And Blue Sapphires</h3>
+                <h3 class="card-title">Sastha Earrings 18K White Gold With Akoya Pearls And Blue Sapphires</h3>
                 <p class="card-text">Strike a dazzling note with this pair of 18k white gold earrings inspired by the beauty and rhythm of music. Just like a composer.</p>
                 <p class="card-price">3000 SAR and up</p>
               </div>
@@ -141,7 +141,7 @@
           <header class="py-3 bgc2">
             <div class="container px-2 px-md-5 my-2">
                 <div class="text-center cc4">
-                    <h1 class="fw-bold">Ghidaq <i class="far fa-gem fa-lg"></i></h1>
+                    <h1 class="fw-bold">Sastha <i class="far fa-gem fa-lg"></i></h1>
                     <p class="lead fw-normal text-black-50">We are passionate about jewellery and to inspire the imagination.</p>
                 </div>
             </div>
@@ -151,12 +151,12 @@
           <div class="container mb-5" style="color: #FFE6CC">
             <div class="row">
               <div class="col-md-6">
-                <img src="/img/pr.png" alt="Ghidaq" class="img-rounded" style="width: 450px; height: 450px;">
+                <img src="/img/pr.png" alt="Sastha" class="img-rounded" style="width: 450px; height: 450px;">
             </div>                              
               <div class="col-md-6">
                 <h1 class="display-3 mb-2">Committed to Creating memories</h1><br>
                 <p class="h3">About Us</p>
-                <p class="h5 mb-4">Ghidaq Jewellery is a renowned luxury jewellery brand dedicated to creating exquisite pieces that inspire the imagination. With a deep passion for craftsmanship and design, we strive to deliver exceptional quality and timeless beauty in every creation.</p>
+                <p class="h5 mb-4">Sastha Jewellery is a renowned luxury jewellery brand dedicated to creating exquisite pieces that inspire the imagination. With a deep passion for craftsmanship and design, we strive to deliver exceptional quality and timeless beauty in every creation.</p>
                   <p class="h3">Our Vision</p>
                   <p class="h5 mb-4">We believe in making every woman feel precious, unique, desirable and admired.</p>
                   <p class="h3">Our Mission</p>

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Ghidaq Jewellery - Password')
+@section('title', 'Sastha Jewellery - Password')
 @section('color1', '#1b2f26')
 @section('color2', '#DBAD7E')
 

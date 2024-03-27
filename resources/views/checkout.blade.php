@@ -36,7 +36,7 @@
       <div class="jumbotron jumbotron-fluid py-2 bgc1">
          <div class="container text-center cc1">
           <h2 class="mb-5 cc2">Sastha Jewelry</h2>
-          <h3 class="mb-3">Ghidaq Checkout</h3>
+          <h3 class="mb-3">Sastha Checkout</h3>
           </div>
         </div>  
 

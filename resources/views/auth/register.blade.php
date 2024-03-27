@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Ghidaq Jewellery - Register')
+@section('title', 'Sastha Jewellery - Register')
 @section('color1', '#1b2f26')
 @section('color2', '#DBAD7E')
 
